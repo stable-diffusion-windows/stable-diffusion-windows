@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="../../releases">
-    <img width="1200" alt="a web interface for Stable Diffusion, implemented using Gradio library." src="assets/screenshot.png" />
+    <img width="1200" alt="a web interface for Stable Diffusion, implemented using Gradio library." src="assets/stable.png" />
   </a>
 </div>
 
