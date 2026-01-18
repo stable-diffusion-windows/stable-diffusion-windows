@@ -1,4 +1,4 @@
-# Stable Diffusion Windows web UI
+# Stable Diffusion Windows GUI
 > A web interface for Stable Diffusion, implemented using Gradio library.
 
 <div align="center">
